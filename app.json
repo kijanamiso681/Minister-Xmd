@@ -5,7 +5,7 @@
   "logo": "https://files.giftedtech.co.ke/image/u90mimage.jpg",
   "keywords": ["minister", "minister-baileys", "minister-btns", "minister-api"],
   "success_url": "/",
-  "stack": "heroku-22",
+  "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
       "description": "Your bot SESSION_ID. Get one from the pairing session page.",
